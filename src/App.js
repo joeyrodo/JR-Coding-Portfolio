@@ -8,17 +8,17 @@ import './App.css';
 import { Routes, Route } from 'react-router-dom';
 
 export default function App() {
-    return (
-        <div>
-          <Header />
-          <div className='body'>
-            <Routes>
-              <Route path="*" element={<About />} />
-              <Route path="/resume" element={<Resume />} />
-              <Route path="/portfolio" element={<Portfolio />} />
-            </Routes>
-          </div>
-          <Footer />
-        </div>
-      )
-    }
+  return (
+    <div>
+      <Header />
+      <div className='body'>
+        <Routes>
+          <Route path="*" element={<About />} />
+          <Route path="/resume" element={<Resume />} />
+          <Route path="/portfolio" element={<Portfolio />} />
+        </Routes>
+      </div>
+      <Footer />
+    </div>
+  )
+}

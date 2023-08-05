@@ -1,0 +1,37 @@
+.project-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-screencap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    height: 350px;
+}
+
+.project-screencap:hover {
+    transform: scale(1.1);
+}
+
+.deploy {
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 0.938rem;
+}
+
+.deploy:hover {
+    transform: scale(1.2);
+}
+
+.deploy a {
+    color: aliceblue;
+}
+
+.deploy a:hover {
+    color: aqua;
+}

@@ -1,0 +1,51 @@
+.About-Me p {
+    margin: 1.563rem 0rem 1.563rem 0rem;
+    font-size: 2.188rem;
+    background-color:#984447; 
+    padding: 0.625rem;
+    text-align: center;
+    color:aliceblue;
+    border-style: solid;
+    border-color: aliceblue;
+    width:min-content;
+    margin:auto;
+}
+
+h2{
+    margin: auto;
+    flex-wrap: nowrap;
+    width:min-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.563rem;
+    font-size: 3.125rem;
+    background-color: #984447;
+    color:aliceblue;
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+.joeypic {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 15.625rem;
+    border-radius: 50%;
+    margin: 2.188rem auto;
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+@media only screen and (max-width: 920px) {  
+    .About-Me {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        overflow: scroll;
+    }
+}
