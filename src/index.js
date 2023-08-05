@@ -8,7 +8,8 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-root.render(
+function render() {
+  root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
@@ -18,3 +19,6 @@ root.render(
     </BrowserRouter>
   </React.StrictMode>,
 );
+  }
+
+  export default render();
