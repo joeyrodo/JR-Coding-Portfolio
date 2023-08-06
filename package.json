@@ -2,7 +2,7 @@
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage":"https://joeyrodo.github.io/JR-Coding-Portfolio)",
+    "homepage":"https://joeyrodo.github.io/JR-Coding-Portfolio",
     "dependencies": {
         "@babel/plugin-proposal-private-property-in-object": "",
         "@fortawesome/free-brands-svg-icons": "^6.4.0",
