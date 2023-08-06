@@ -5,7 +5,7 @@ import Navigation from '../Navigation/Navigation';
 export default function Header() {
     return (
     <header className="header">
-      <div>
+      <div >
         <h1>Joseph Rodante - Fullstack Developer Portfolio</h1>
         <Navigation />
       </div>

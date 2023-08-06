@@ -1,6 +1,5 @@
 import React from "react";
 import frontpic from "../../assets/pictures/joeypic.png"
-//  "../../assets/pictures/joeypic.png"
 import './about.css'
 
 export default function About() {
