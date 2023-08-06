@@ -10,7 +10,7 @@ import { Routes, Route } from 'react-router-dom';
 export default function App() {
   return (
     <div>
-      <Header />
+      {/* <Header />
       <div className='body'>
         <Routes>
           <Route path="*" element={<About />} />
@@ -18,7 +18,8 @@ export default function App() {
           <Route path="/portfolio" element={<Portfolio />} />
         </Routes>
       </div>
-      <Footer />
+      <Footer /> */}
+      <Header />
     </div>
   )
 }

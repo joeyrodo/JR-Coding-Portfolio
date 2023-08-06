@@ -1,24 +1,22 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 
 import App from './App';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// const root = ReactDOM.createRoot(document.getElementById('root'));
 
-function render() {
-  root.render(
+  ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="/JR-Coding-Portfolio">
+    {/* <BrowserRouter basename="/JR-Coding-Portfolio">
       <Routes>
         <Route path="*" element={<App />}>
         </Route>
       </Routes>
-    </BrowserRouter>
+    </BrowserRouter> */}
+    <App />
   </React.StrictMode>,
-);
-  }
-
-  export default render();
+  document.getElementById("root")
+);  
