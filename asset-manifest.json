@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "C:/Program Files/Git/JR-Coding-Portfolio/static/css/main.b425a93d.css",
-    "main.js": "C:/Program Files/Git/JR-Coding-Portfolio/static/js/main.0b24e9a3.js",
+    "main.js": "C:/Program Files/Git/JR-Coding-Portfolio/static/js/main.ceecbe0e.js",
     "static/media/JSQuiz.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/JSQuiz.13367797d61df01da45e.png",
     "static/media/ExploreBeyond.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/ExploreBeyond.a66512e5967fc425e87e.png",
     "static/media/joeypic.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/joeypic.6cc508ee5dffce58b2da.png",
@@ -11,10 +11,10 @@
     "static/media/SVGMaker.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/SVGMaker.d2e311b190c5b29abba8.png",
     "index.html": "C:/Program Files/Git/JR-Coding-Portfolio/index.html",
     "main.b425a93d.css.map": "C:/Program Files/Git/JR-Coding-Portfolio/static/css/main.b425a93d.css.map",
-    "main.0b24e9a3.js.map": "C:/Program Files/Git/JR-Coding-Portfolio/static/js/main.0b24e9a3.js.map"
+    "main.ceecbe0e.js.map": "C:/Program Files/Git/JR-Coding-Portfolio/static/js/main.ceecbe0e.js.map"
   },
   "entrypoints": [
     "static/css/main.b425a93d.css",
-    "static/js/main.0b24e9a3.js"
+    "static/js/main.ceecbe0e.js"
   ]
 }
