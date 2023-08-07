@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "C:/Program Files/Git/JR-Coding-Portfolio/static/css/main.b425a93d.css",
-    "main.js": "C:/Program Files/Git/JR-Coding-Portfolio/static/js/main.a225c71f.js",
-    "static/media/JSQuiz.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/JSQuiz.13367797d61df01da45e.png",
-    "static/media/ExploreBeyond.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/ExploreBeyond.a66512e5967fc425e87e.png",
-    "static/media/joeypic.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/joeypic.6cc508ee5dffce58b2da.png",
-    "static/media/WeatherDB.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/WeatherDB.87f61922fcc67f7c666d.png",
-    "static/media/WDScheduler.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/WDScheduler.04493bfd7d46ddf8cea4.png",
-    "static/media/PWGen.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/PWGen.7d8e1222e77c609a5434.png",
-    "static/media/SVGMaker.png": "C:/Program Files/Git/JR-Coding-Portfolio/static/media/SVGMaker.d2e311b190c5b29abba8.png",
-    "index.html": "C:/Program Files/Git/JR-Coding-Portfolio/index.html",
-    "main.b425a93d.css.map": "C:/Program Files/Git/JR-Coding-Portfolio/static/css/main.b425a93d.css.map",
-    "main.a225c71f.js.map": "C:/Program Files/Git/JR-Coding-Portfolio/static/js/main.a225c71f.js.map"
+    "main.css": "/JR-Coding-Portfolio/static/css/main.b425a93d.css",
+    "main.js": "/JR-Coding-Portfolio/static/js/main.97c2f823.js",
+    "static/media/JSQuiz.png": "/JR-Coding-Portfolio/static/media/JSQuiz.13367797d61df01da45e.png",
+    "static/media/ExploreBeyond.png": "/JR-Coding-Portfolio/static/media/ExploreBeyond.a66512e5967fc425e87e.png",
+    "static/media/joeypic.png": "/JR-Coding-Portfolio/static/media/joeypic.6cc508ee5dffce58b2da.png",
+    "static/media/WeatherDB.png": "/JR-Coding-Portfolio/static/media/WeatherDB.87f61922fcc67f7c666d.png",
+    "static/media/WDScheduler.png": "/JR-Coding-Portfolio/static/media/WDScheduler.04493bfd7d46ddf8cea4.png",
+    "static/media/PWGen.png": "/JR-Coding-Portfolio/static/media/PWGen.7d8e1222e77c609a5434.png",
+    "static/media/SVGMaker.png": "/JR-Coding-Portfolio/static/media/SVGMaker.d2e311b190c5b29abba8.png",
+    "index.html": "/JR-Coding-Portfolio/index.html",
+    "main.b425a93d.css.map": "/JR-Coding-Portfolio/static/css/main.b425a93d.css.map",
+    "main.97c2f823.js.map": "/JR-Coding-Portfolio/static/js/main.97c2f823.js.map"
   },
   "entrypoints": [
     "static/css/main.b425a93d.css",
-    "static/js/main.a225c71f.js"
+    "static/js/main.97c2f823.js"
   ]
 }
