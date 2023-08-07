@@ -9,7 +9,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Questions](#questions)
-- [License](#license)
+
 
 ## Description
 - This website is the portfolio of Joseph Rodante, a fullstack developer!
