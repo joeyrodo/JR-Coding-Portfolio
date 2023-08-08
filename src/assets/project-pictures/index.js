@@ -5,6 +5,7 @@ const SCREENSHOTS = {
     SVGMaker: require('./SVGMaker.png'),
     WDScheduler: require('./WDScheduler.png'),
     WeatherDB: require('./WeatherDB.png'),
+    SustainAPlate: require('./SustainAPlate.png')
 }
 
 export default SCREENSHOTS;

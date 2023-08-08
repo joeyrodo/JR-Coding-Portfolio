@@ -13,10 +13,10 @@ export default function Portfolio() {
             github: "https://github.com/knudsam/explore-nearby",
         },
         {
-            title: 'JavaScript Quiz',
+            title: 'Sustain-A-Plate',
             image: SCREENSHOTS.JSQuiz,
-            deployedLink: "https://joeyrodo.github.io/JavaScript-Quiz/",
-            github: "https://github.com/joeyrodo/JavaScript-Quiz",
+            deployedLink: "https://sustain-a-plate-a492ad2a8239.herokuapp.com/",
+            github: "https://github.com/Will-Riffe/Sustain-A-Plate",
         },
         {
             title: 'Password Generator',
