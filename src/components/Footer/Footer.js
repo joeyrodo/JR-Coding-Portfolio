@@ -19,7 +19,7 @@ export default function Footer() {
                    className= "linkedin social">
                    <FontAwesomeIcon icon={faLinkedin} size="2x" />
                 </a>
-                <a href="joeyrodo@gmail.com"
+                <a href="mailto:joeyrodo@gmail.com"
                    className= "email">
                    <FontAwesomeIcon icon={faEnvelope} size="2x" />
                 </a>
