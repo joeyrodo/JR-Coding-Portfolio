@@ -12,7 +12,7 @@ export default function About() {
             <p>
                 Hello there! My name is Joseph Rodante. <br></br>
                 I am a fullstack developer graduated from Rutgers Coding Bootcamp.
-                Trained in UI Development, Databases, and full-stack web apps.
+                <br></br>Trained in UI Development, Databases, and full-stack web apps.
                 <br></br>
                 <br></br>
                 See my projects in the "Portfolio" tab
