@@ -6,7 +6,7 @@ export default function Header() {
     return (
     <header className="header">
       <div >
-        <h1>Joseph Rodante - Fullstack Developer Portfolio</h1>
+        <h1>Joseph Rodante - Fullstack Developer Portfolio!!</h1>
         <Navigation />
       </div>
     </header>
