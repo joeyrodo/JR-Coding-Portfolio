@@ -5,7 +5,7 @@
     padding-top: 2rem;
 }
 
-@media only screen and (max-width: 920px) {  
+@media only screen and (max-width: 1300px) {  
     .project-space {
         display: flex;
         flex-direction: column;

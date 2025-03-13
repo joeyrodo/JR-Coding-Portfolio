@@ -73,7 +73,7 @@ h3 a:hover {
     transform: scale(1.2);
 }
 
-@media only screen and (max-width: 920px) {  
+@media only screen and (max-width: 1300px) {  
     .Home {
         display: flex;
         flex-direction: column;
