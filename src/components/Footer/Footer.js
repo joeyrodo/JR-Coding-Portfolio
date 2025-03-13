@@ -6,6 +6,7 @@ import {
     faLinkedin,
     faTwitter
 } from "@fortawesome/free-brands-svg-icons";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 export default function Footer() {
     return (
@@ -19,9 +20,9 @@ export default function Footer() {
                    className= "linkedin social">
                    <FontAwesomeIcon icon={faLinkedin} size="2x" />
                 </a>
-                <a href="https://twitter.com/leg_irl"
-                   className= "twitter social">
-                   <FontAwesomeIcon icon={faTwitter} size="2x" />
+                <a href="joeyrodo@gmail.com"
+                   className= "email">
+                   <FontAwesomeIcon icon={faEnvelope} size="2x" />
                 </a>
                 
         </footer>

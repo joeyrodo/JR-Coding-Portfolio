@@ -19,10 +19,6 @@ function Navigation() {
                 <NavLink style={({isActive}) => {return {color: isActive?'red':''}}}
                 to="/resume" className="resume">Resume</NavLink>
             </li>
-            <li>
-                <NavLink style={({isActive}) => {return {color: isActive?'red':''}}}
-                to="/contact" className="contact">Contact</NavLink>
-            </li>
         </ul>
     </nav>
     );
