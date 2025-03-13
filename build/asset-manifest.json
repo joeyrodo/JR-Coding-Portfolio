@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JR-Coding-Portfolio/static/css/main.b425a93d.css",
+    "main.js": "/JR-Coding-Portfolio/static/js/main.1cb368a4.js",
+    "static/media/SustainAPlate.png": "/JR-Coding-Portfolio/static/media/SustainAPlate.023ae6b5936b4039dfff.png",
+    "static/media/JSQuiz.png": "/JR-Coding-Portfolio/static/media/JSQuiz.13367797d61df01da45e.png",
+    "static/media/ExploreBeyond.png": "/JR-Coding-Portfolio/static/media/ExploreBeyond.a66512e5967fc425e87e.png",
+    "static/media/joeypic.png": "/JR-Coding-Portfolio/static/media/joeypic.6cc508ee5dffce58b2da.png",
+    "static/media/WeatherDB.png": "/JR-Coding-Portfolio/static/media/WeatherDB.87f61922fcc67f7c666d.png",
+    "static/media/WDScheduler.png": "/JR-Coding-Portfolio/static/media/WDScheduler.04493bfd7d46ddf8cea4.png",
+    "static/media/PWGen.png": "/JR-Coding-Portfolio/static/media/PWGen.7d8e1222e77c609a5434.png",
+    "static/media/SVGMaker.png": "/JR-Coding-Portfolio/static/media/SVGMaker.d2e311b190c5b29abba8.png",
+    "index.html": "/JR-Coding-Portfolio/index.html",
+    "main.b425a93d.css.map": "/JR-Coding-Portfolio/static/css/main.b425a93d.css.map",
+    "main.1cb368a4.js.map": "/JR-Coding-Portfolio/static/js/main.1cb368a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b425a93d.css",
+    "static/js/main.1cb368a4.js"
+  ]
+}
