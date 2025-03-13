@@ -11,12 +11,14 @@ export default function About() {
         </div>
             <p>
                 Hello there! My name is Joseph Rodante. <br></br>
-                I am a fullstack developer graduating from Rutgers Coding Bootcamp.
+                I am a fullstack developer graduated from Rutgers Coding Bootcamp.
+                Trained in UI Development, Databases, and full-stack web apps.
                 <br></br>
                 <br></br>
-                Click the "Portfolio" text at the top right of the page to check out my portfolio of projects!
-                <br></br>Click "Resume" to see my resume (to be uploaded)
-                <br></br>and click "Contact" to see where you can contact me!.
+                See my projects in the "Portfolio" tab
+                <br></br>Click "Resume" to dowload my resume
+                <br></br>See my social media at the bottom of the page
+                <br></br>Email me at joeyrodo@gmail.com
             </p>
         </section>
     )
