@@ -58,7 +58,7 @@ export default function Resume() {
                     </li>
                 </ul>
             </div>
-            <a href="https://joeyrodo.github.io/JR-Coding-Portfolio/JRresume.pdf"><h2>Download my resume here!</h2></a>
+            <a href="https://joeyrodo.github.io/JR-Coding-Portfolio/JRresume.pdf" download><h2>Download my resume here!</h2></a>
         </section>
     )
 }
