@@ -58,7 +58,7 @@ export default function Resume() {
                     </li>
                 </ul>
             </div>
-            <a href="/Joseph Rodante Fullstack Developer Resume (1).pdf" download><h2>Download my resume here!</h2></a>
+            <a href="/JRresume.pdf" download><h2>Download my resume here!</h2></a>
         </section>
     )
 }
