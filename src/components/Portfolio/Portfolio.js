@@ -13,7 +13,7 @@ export default function Portfolio() {
             github: "https://github.com/knudsam/explore-nearby",
         },
         {
-            title: 'Sustain-A-Plate',
+            title: 'Sustain-A-Plate (No longer operational)',
             image: SCREENSHOTS.SustainAPlate,
             deployedLink: "https://sustain-a-plate-a492ad2a8239.herokuapp.com/",
             github: "https://github.com/Will-Riffe/Sustain-A-Plate",
